@@ -17,6 +17,12 @@
     overflow-x: auto;
 }
 
+#magic .bikes-list ul,
+#nebula .bikes-list ul,
+#nimbus .bikes-list ul {
+    padding: 0 0 20px 0px;
+}
+
 .bikes-list li {
     min-width: 280px;
 }
