@@ -1,6 +1,7 @@
 @import url(./global/global.css);
 @import url(./utilities/colors.css);
 @import url(./utilities/typo.css);
+@import url(./utilities/animation.css);
 
 @import url(./global/header.css);
 @import url(./global/footer.css);
